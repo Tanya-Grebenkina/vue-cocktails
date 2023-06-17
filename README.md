@@ -7,7 +7,8 @@ Moreover, when you get a list of cocktails, you can click on the cocktail you ar
 Or...click on "get random cocktail" where you can read the description of the cocktail and view its ingredients with the slider.
 
 You can see demo following the link
-[DEMO](https://vue-cocktails.netlify.app/)
+
+##[DEMO](https://vue-cocktails.netlify.app/)
 
 ## Functionality
 - Vue3(Composition API);
